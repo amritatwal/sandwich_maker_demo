@@ -1,7 +1,4 @@
 # Sandwich maker demo
 
-Description of Python project goes here.
+A sandwich order generator made with Python
 
-## Subheader
-
-Some text goes here.
